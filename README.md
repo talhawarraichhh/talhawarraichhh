@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I'm currently working at MLSoft, an agency in Toronto!<br>⚡ My expertise lie in mobile development, specifically iOS and Swift
+🧑‍💻 I'm currently working at Favorite Flyer!<br>⚡ My expertise lie in mobile development, specifically iOS and Swift
 
 
 ## 🌐 Socials:
