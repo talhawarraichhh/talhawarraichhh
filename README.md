@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I'm currently working at Favorite Flyer!<br>⚡ My expertise lie in mobile development, specifically iOS and Swift
+🧑‍💻 I'm currently attending the University Of Calgary!<br>⚡ My expertise lie in Software Development
 
 
 ## 🌐 Socials:
